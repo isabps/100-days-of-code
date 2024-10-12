@@ -1,7 +1,7 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log Round 1 - [ Isaias Silva ]
+The log of my #100DaysOfCode challenge. Started on [2024, October 12, Monday].
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### R1D0: 241012
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
@@ -10,7 +10,6 @@
 **Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 

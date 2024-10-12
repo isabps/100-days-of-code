@@ -1,4 +1,5 @@
-# Primary Resources on the #100DaysOfCode
+# **MY** Primary Resources on the #100DaysOfCode
+#### Changing and adding resources as time goes by
 
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
 
@@ -15,12 +16,14 @@
 1. [Gentle Explanation of 'this keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/)
 2. [Build a Laravel CRUD Application from scratch](https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/)
 
-## Projects and Ideas
-1. [FreeCodeCamp](https://www.freecodecamp.com)
-2. [The Odin Project](http://www.theodinproject.com/)
+## Projects, Ideas and References
+1. [ROADMAP.SH](https://roadmap.sh/u/isabps)
+2. [NeetCode](https://neetcode.io/roadmap)
+3. [Deal - Spring Boot e Angular (17+)](https://web.dio.me/track/3659a7e2-f51b-48b7-84eb-b1669166a8d1)
 
 ## Other resources
 1. [CodeNewbie - #100DaysOfCode Slack Channel](https://codenewbie.typeform.com/to/uwsWlZ)
+2. [#100DaysOfCode.io](https://www.100daysofcode.io/dashboard)
 
 ## Books (both coding and non-coding)
 
