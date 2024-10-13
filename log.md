@@ -1,15 +1,15 @@
 # 100 Days Of Code - Log Round 1 - [ Isaias Silva ]
 The log of my #100DaysOfCode challenge. Started on [2024, October 12, Monday].
 
-### R1D0: 241012
+### R1D0: 241012 - 2024, October 13, Sab.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Adoção do projeto e ajustes.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I feel good, tâmnana nanam nanãm.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [100DoC Java D02](https://www.100daysofcode.io/learn/java/variables-and-data-types)
 
-### Day 0: February 30, 2016 (Example 2)
+### R1D1: 241013
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
@@ -18,7 +18,7 @@ The log of my #100DaysOfCode challenge. Started on [2024, October 12, Monday].
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### R1D2: : 241014
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
