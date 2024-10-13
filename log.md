@@ -1,4 +1,5 @@
 # 100 Days Of Code - Log Round 1 - [ Isaias Silva ]
+## *My jorney to backend java/ruby developer*
 The log of my #100DaysOfCode challenge. Started on [2024, October 12, Monday].
 
 ### R1D0: 241012 - 2024, October 13, Sab.

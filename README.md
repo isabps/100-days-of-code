@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
+# *My jorney to backend java/ruby developer*
+
 ## Contents
 
 - [Rules](rules.md)
