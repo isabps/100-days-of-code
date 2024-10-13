@@ -3,9 +3,11 @@ The log of my #100DaysOfCode challenge. Started on [2024, October 12, Monday].
 
 ### R1D0: 241012 - 2024, October 13, Sab.
 
-**Today's Progress**: Adoção do projeto e ajustes.
+**Today's Progress**:
+1. Adoção do projeto, ajustes e dia 01 e 02 no site linkado a baixo.
+2. DIO Java - Gerenciamento de dependências com Maven e Gradle.
 
-**Thoughts:** I feel good, tâmnana nanam nanãm.
+**Thoughts:** I feel good, tâmnana nanam nanãm. And tired :(.
 
 **Link to work:** [100DoC Java D02](https://www.100daysofcode.io/learn/java/variables-and-data-types)
 
